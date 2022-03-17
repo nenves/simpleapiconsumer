@@ -1,0 +1,10 @@
+{
+    "authurl" : "<Token registration URL here>",
+    "url" : "<Post url here>",
+    "client_id" : "<Client Id here>",
+    "email" : "your email here",
+    "name" : "<your name here>",
+    "min_page_id" : 1,
+    "max_page_id" : 10,
+    "output_file" : "rawdata_{page_id}.json"
+}

@@ -1,0 +1,305 @@
+{
+  "maximum length per month": [
+    {
+      "year": 2021,
+      "month": "December",
+      "max len": 773
+    },
+    {
+      "year": 2021,
+      "month": "November",
+      "max len": 753
+    },
+    {
+      "year": 2021,
+      "month": "October",
+      "max len": 783
+    },
+    {
+      "year": 2021,
+      "month": "September",
+      "max len": 753
+    },
+    {
+      "year": 2022,
+      "month": "February",
+      "max len": 765
+    },
+    {
+      "year": 2022,
+      "month": "January",
+      "max len": 751
+    },
+    {
+      "year": 2022,
+      "month": "March",
+      "max len": 766
+    }
+  ],
+  "average length per month": [
+    {
+      "year": 2021,
+      "month": "December",
+      "mean len": 434.0866666667
+    },
+    {
+      "year": 2021,
+      "month": "November",
+      "mean len": 397.8133333333
+    },
+    {
+      "year": 2021,
+      "month": "October",
+      "mean len": 381.1833333333
+    },
+    {
+      "year": 2021,
+      "month": "September",
+      "mean len": 422.565
+    },
+    {
+      "year": 2022,
+      "month": "February",
+      "mean len": 376.9041666667
+    },
+    {
+      "year": 2022,
+      "month": "January",
+      "mean len": 362.9211309524
+    },
+    {
+      "year": 2022,
+      "month": "March",
+      "mean len": 405.7023809524
+    }
+  ],
+  "total posts by week number": [
+    {
+      "year": 2021,
+      "week": 36,
+      "total posts": 15
+    },
+    {
+      "year": 2021,
+      "week": 37,
+      "total posts": 37
+    },
+    {
+      "year": 2021,
+      "week": 38,
+      "total posts": 36
+    },
+    {
+      "year": 2021,
+      "week": 39,
+      "total posts": 38
+    },
+    {
+      "year": 2021,
+      "week": 40,
+      "total posts": 36
+    },
+    {
+      "year": 2021,
+      "week": 41,
+      "total posts": 37
+    },
+    {
+      "year": 2021,
+      "week": 42,
+      "total posts": 38
+    },
+    {
+      "year": 2021,
+      "week": 43,
+      "total posts": 38
+    },
+    {
+      "year": 2021,
+      "week": 44,
+      "total posts": 36
+    },
+    {
+      "year": 2021,
+      "week": 45,
+      "total posts": 38
+    },
+    {
+      "year": 2021,
+      "week": 46,
+      "total posts": 38
+    },
+    {
+      "year": 2021,
+      "week": 47,
+      "total posts": 36
+    },
+    {
+      "year": 2021,
+      "week": 48,
+      "total posts": 37
+    },
+    {
+      "year": 2021,
+      "week": 49,
+      "total posts": 40
+    },
+    {
+      "year": 2021,
+      "week": 50,
+      "total posts": 40
+    },
+    {
+      "year": 2021,
+      "week": 51,
+      "total posts": 37
+    },
+    {
+      "year": 2021,
+      "week": 52,
+      "total posts": 27
+    },
+    {
+      "year": 2022,
+      "week": 1,
+      "total posts": 39
+    },
+    {
+      "year": 2022,
+      "week": 2,
+      "total posts": 39
+    },
+    {
+      "year": 2022,
+      "week": 3,
+      "total posts": 34
+    },
+    {
+      "year": 2022,
+      "week": 4,
+      "total posts": 39
+    },
+    {
+      "year": 2022,
+      "week": 5,
+      "total posts": 36
+    },
+    {
+      "year": 2022,
+      "week": 6,
+      "total posts": 35
+    },
+    {
+      "year": 2022,
+      "week": 7,
+      "total posts": 36
+    },
+    {
+      "year": 2022,
+      "week": 8,
+      "total posts": 39
+    },
+    {
+      "year": 2022,
+      "week": 9,
+      "total posts": 36
+    },
+    {
+      "year": 2022,
+      "week": 10,
+      "total posts": 39
+    },
+    {
+      "year": 2022,
+      "week": 11,
+      "total posts": 14
+    },
+    {
+      "year": 2022,
+      "week": 52,
+      "total posts": 10
+    }
+  ],
+  "average posts per user per month": [
+    {
+      "from_name": "Britany Heise",
+      "average posts per month": 4.0
+    },
+    {
+      "from_name": "Carly Alvarez",
+      "average posts per month": 3.4285714286
+    },
+    {
+      "from_name": "Carson Smithson",
+      "average posts per month": 3.8571428571
+    },
+    {
+      "from_name": "Ethelene Maggi",
+      "average posts per month": 3.0666666667
+    },
+    {
+      "from_name": "Filomena Cort",
+      "average posts per month": 4.3846153846
+    },
+    {
+      "from_name": "Gigi Richter",
+      "average posts per month": 4.3846153846
+    },
+    {
+      "from_name": "Isidro Schuett",
+      "average posts per month": 3.6153846154
+    },
+    {
+      "from_name": "Lael Vassel",
+      "average posts per month": 4.5384615385
+    },
+    {
+      "from_name": "Lashanda Small",
+      "average posts per month": 3.6666666667
+    },
+    {
+      "from_name": "Leonarda Schult",
+      "average posts per month": 4.1428571429
+    },
+    {
+      "from_name": "Macie Mckamey",
+      "average posts per month": 3.6153846154
+    },
+    {
+      "from_name": "Mandie Nagao",
+      "average posts per month": 3.0
+    },
+    {
+      "from_name": "Maxie Marceau",
+      "average posts per month": 3.1428571429
+    },
+    {
+      "from_name": "Nydia Croff",
+      "average posts per month": 3.25
+    },
+    {
+      "from_name": "Quyen Pellegrini",
+      "average posts per month": 4.4166666667
+    },
+    {
+      "from_name": "Rafael Althoff",
+      "average posts per month": 3.6923076923
+    },
+    {
+      "from_name": "Regenia Boice",
+      "average posts per month": 3.3076923077
+    },
+    {
+      "from_name": "Rosann Eide",
+      "average posts per month": 4.7692307692
+    },
+    {
+      "from_name": "Woodrow Lindholm",
+      "average posts per month": 3.5333333333
+    },
+    {
+      "from_name": "Yolande Urrutia",
+      "average posts per month": 3.3846153846
+    }
+  ]
+}
